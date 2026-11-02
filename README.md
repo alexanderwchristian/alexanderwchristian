@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alex Christian
 
-<!--
-**alexanderwchristian/alexanderwchristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Leader | Applied AI, Financial Technology & Research Platforms**
 
-Here are some ideas to get you started:
+I build products at the intersection of artificial intelligence, institutional finance, and developer platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience spans financial technology at JPMorgan and BlackRock, including AI-powered research workflows, production AI agents, developer tooling, and evaluation infrastructure.
+
+## Areas of Focus
+
+- **AI Agents:** Building intelligent systems that automate complex research and enterprise workflows.
+- **AI Evaluation & Reliability:** Improving agent quality, testing, observability, and production readiness.
+- **Financial Technology:** Developing scalable platforms for financial data, investment research, and institutional workflows.
+- **Product Strategy:** Translating emerging technology into practical products with measurable business impact.
+
+## What I'm Exploring
+
+- AI agents for financial research and decision support
+- Evaluation frameworks for reliable, trustworthy AI systems
+- Multi-agent workflows, tool orchestration, and human-in-the-loop systems
